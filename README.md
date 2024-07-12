@@ -37,16 +37,18 @@ To get started with these example applications, follow the setup instructions be
    git clone https://github.com/PynaPavani/langchain-example-applications.git
   ```
 
+
 2. **Install Dependencies:**
    
    Navigate to the project directory and install the required Python packages.
 
+
    ```bash
    cd langchain-example-applications
    ```
-```bash
+
    pip install -r requirements.txt
-  ```
+  
 
 4. **Run the Examples:**
    
