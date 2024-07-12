@@ -33,18 +33,20 @@ LangChain provides a modular and flexible approach to working with large languag
 To get started with these example applications, follow the setup instructions below:
 
 1. **Clone the Repository:**
-   
-   git clone https://github.com/your-username/langchain-example-applications.git
-  
+   ```bash
+   git clone https://github.com/PynaPavani/langchain-example-applications.git
+  ```
 
 2. **Install Dependencies:**
    
    Navigate to the project directory and install the required Python packages.
-   
+
+   ```bash
    cd langchain-example-applications
-   
+   ```
+```bash
    pip install -r requirements.txt
-  
+  ```
 
 4. **Run the Examples:**
    
